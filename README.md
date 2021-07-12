@@ -2,7 +2,7 @@
 
 ## INSTALLATION
 
-_Before using the Keyri SDK, you must install a number of dependencie_
+_Before using the Keyri SDK, you must install a number of dependencie._  
 To install the stable version:
 
 'npm install @react-native-async-storage/async-storage react-native-device-info react-native-linear-gradient react-native-qrcode-scanner react-native-sensitive-info`
