@@ -32,7 +32,7 @@ And put the line in your package.json file depending:
 `.....`  
 `},`
 
-##START
+##START##
 
 `npm start`
 
