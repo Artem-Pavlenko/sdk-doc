@@ -5,11 +5,11 @@
 _Before using the Keyri SDK, you must install a number of dependencie._  
 To install the stable version:
 
-`npm install @react-native-async-storage/async-storage react-native-device-info react-native-linear-gradient react-native-qrcode-scanner react-native-sensitive-info`
+`npm install react-native-keyri-sdk @react-native-async-storage/async-storage react-native-device-info react-native-linear-gradient react-native-qrcode-scanner react-native-sensitive-info`
 
 > or if you are using yarn
 
-`yarn add @react-native-async-storage/async-storage react-native-device-info react-native-linear-gradient react-native-qrcode-scanner react-native-sensitive-info`
+`yarn add react-native-keyri-sdk @react-native-async-storage/async-storage react-native-device-info react-native-linear-gradient react-native-qrcode-scanner react-native-sensitive-info`
 
 And put the line in your package.json file depending:  
 `"react-native-sodium": "https://github.com/glancemoney/react-native-sodium"`
