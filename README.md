@@ -7,7 +7,7 @@ To install the stable version:
 
 'npm install @react-native-async-storage/async-storage react-native-device-info react-native-linear-gradient react-native-qrcode-scanner react-native-sensitive-info`
 
-or if you are using yarn
+> or if you are using yarn
 
 `yarn add @react-native-async-storage/async-storage react-native-device-info react-native-linear-gradient react-native-qrcode-scanner react-native-sensitive-info`
 
@@ -36,11 +36,11 @@ And put the line in your package.json file depending:
 
 `npm start`
 
-or if you are using yarn
+> or if you are using yarn
 
 `yarn start`
 
-and in new terminal:
+> and in new terminal:
 
 `npm android`
 
@@ -50,7 +50,7 @@ and in new terminal:
 
 > for start apllication on **iOS**;
 
-##OPTIONS##
+##REQUIRED OPTIONS##
 
 | **option** | **type** | **description**                                                                                                                       |
 | ---------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------- |
