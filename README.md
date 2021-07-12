@@ -60,8 +60,6 @@ _in new terminal:_
 | ---------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | apiKey     | string   | Api key of your service. Can be viewed on the Admin page for users who have registered or authenticated on [Keyri](https://keyri.co) |
 
-**[Keyri](https://keyri.co)**
-
-<div align="center">
-  my text here.
-</div>
+<a href="https://keyri.co" align="center" target="_blank">
+  Keyri
+</a>
