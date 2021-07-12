@@ -46,13 +46,9 @@ And put the line in your package.json file depending:
 
 _in new terminal:_
 
-`npm android`
+`npm android` - for start application on **android**;
 
-> for start application on **android**;
-
-`npm ios`
-
-> for start apllication on **iOS**;
+`npm ios` - for start apllication on **iOS**;
 
 ##REQUIRED OPTIONS##
 
