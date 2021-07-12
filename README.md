@@ -34,6 +34,8 @@ And put the line in your package.json file depending:
 
 ## START
 
+**1**
+
 `npm start`
 
 > or if you are using yarn
@@ -41,6 +43,8 @@ And put the line in your package.json file depending:
 `yarn start`
 
 > and in new terminal:
+
+**2**
 
 `npm android`
 
