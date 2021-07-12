@@ -17,7 +17,7 @@ And put the line in your package.json file depending:
 **Your dependencies will look approximately (package versions may differ from the example):**
 
 `"dependencies": {`  
-`.................`  
+`.....`  
 ` "@react-native-async-storage/async-storage": "^1.15.5",`  
 ` "react": "17.0.1",`  
 ` "react-native": "0.64.1",`  
@@ -29,6 +29,7 @@ And put the line in your package.json file depending:
 ` "react-native-qrcode-scanner": "^1.5.4",`  
 ` "react-native-sensitive-info": "^5.5.8",`  
 ` "react-native-sodium": "https://github.com/glancemoney/react-native-sodium"`  
+`.....`  
 `},`
 
 ##START
