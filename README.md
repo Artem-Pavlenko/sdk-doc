@@ -32,7 +32,7 @@ And put the line in your package.json file depending:
 `.....`  
 `},`
 
-##START##
+## START
 
 `npm start`
 
@@ -52,8 +52,8 @@ And put the line in your package.json file depending:
 
 ##REQUIRED OPTIONS##
 
-| **option** | **type** | **description**                                                                                                                       |
-| ---------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| apiKey     | string   | Api key of your service. Can be viewed on the Admin page for users who have registered or authenticated on [Keyri]((https://keyri.co) |
+| **option** | **type** | **description**                                                                                                                      |
+| ---------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| apiKey     | string   | Api key of your service. Can be viewed on the Admin page for users who have registered or authenticated on [Keyri](https://keyri.co) |
 
 **[Keyri](https://keyri.co)**
