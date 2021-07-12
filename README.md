@@ -44,7 +44,7 @@ And put the line in your package.json file depending:
 
 **2**
 
-_and in new terminal:_
+_in new terminal:_
 
 `npm android`
 
