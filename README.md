@@ -43,7 +43,9 @@ and in new terminal:
 `npm android`
 
 > for start application on **android**;
-> `npm ios`
+
+`npm ios`
+
 > for start apllication on **iOS**;
 
 ##OPTIONS##
