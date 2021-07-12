@@ -42,9 +42,9 @@ And put the line in your package.json file depending:
 
 `yarn start`
 
-> and in new terminal:
-
 **2**
+
+_and in new terminal:_
 
 `npm android`
 
