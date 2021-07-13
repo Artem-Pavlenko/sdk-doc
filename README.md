@@ -43,9 +43,9 @@ And put the line in your package.json file depending:
 
 `const App: React.FC = () => {`  
 `return (`  
-` <SafeAreaView>`  
-` <Keyri apiKey="your_service_api_key" />`  
-` </SafeAreaView>`  
+ ` <SafeAreaView>`  
+ ` <Keyri apiKey="your_service_api_key" />`  
+ ` </SafeAreaView>`  
 `);`  
 `};`
 
