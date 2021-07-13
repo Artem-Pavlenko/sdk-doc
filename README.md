@@ -35,6 +35,10 @@ And put the line in your package.json file depending:
 **Please insert the following line in android/app/build.gradle inside defaultConfig block either:**
 `missingDimensionStrategy 'react-native-camera', 'general'`
 
+    <?php
+        echo "Hello world!";
+    ?>
+
 ## USAGE
 
 `import React from 'react';`  
