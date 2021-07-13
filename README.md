@@ -16,24 +16,26 @@ And put the line in your package.json file depending:
 
 **Your dependencies will look approximately (package versions may differ from the example):**
 
-`"dependencies": {`  
-`.....`  
-` "@react-native-async-storage/async-storage": "^1.15.5",`  
-` "react": "17.0.1",`  
-` "react-native": "0.64.1",`  
-` "react-native-camera": "^3.44.3",`  
-` "react-native-device-info": "^8.1.3",`  
-` "react-native-keyri-sdk": "0.0.1",`  
-` "react-native-linear-gradient": "^2.5.6",`  
-` "react-native-permissions": "^3.0.5",`  
-` "react-native-qrcode-scanner": "^1.5.4",`  
-` "react-native-sensitive-info": "^5.5.8",`  
-` "react-native-sodium": "https://github.com/glancemoney/react-native-sodium"`  
-`.....`  
-`},`
+        "dependencies": {
+          ....
+        "@react-native-async-storage/async-storage": "^1.15.5",
+        "react": "17.0.1",
+        "react-native": "0.64.1",
+        "react-native-camera": "^3.44.3",
+        "react-native-device-info": "^8.1.3",
+        "react-native-keyri-sdk": "^0.0.4",
+        "react-native-linear-gradient": "^2.5.6",
+        "react-native-permissions": "^3.0.5",
+        "react-native-qrcode-scanner": "^1.5.4",
+        "react-native-sensitive-info": "^5.5.8",
+        "react-native-sodium": "https://github.com/glancemoney/react-native-sodium"
+        ....
+        }
 
 **Please insert the following line in android/app/build.gradle inside defaultConfig block either:**
 `missingDimensionStrategy 'react-native-camera', 'general'`
+
+## USAGE
 
         import React from 'react';
         import {SafeAreaView, useColorScheme} from 'react-native';
@@ -52,23 +54,7 @@ And put the line in your package.json file depending:
             <Keyri apiKey="your service api key" />
           </SafeAreaView>
         );
-      };
-
-## USAGE
-
-`import React from 'react';`  
-`import { SafeAreaView } from 'react-native';`  
-`import Keyri from 'react-native-keyri-sdk';`
-
-`const App: React.FC = () => {`  
-`return (`  
- ` <SafeAreaView>`  
- ` <Keyri apiKey="your_service_api_key" />`  
- ` </SafeAreaView>`  
-`);`  
-`};`
-
-`<div></div>`
+        };
 
 ## START
 
