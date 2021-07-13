@@ -32,6 +32,9 @@ And put the line in your package.json file depending:
 `.....`  
 `},`
 
+**Please insert the following line in android/app/build.gradle inside defaultConfig block either:**
+`missingDimensionStrategy 'react-native-camera', 'general'`
+
 ## USAGE
 
 `import React from 'react';`  
@@ -39,11 +42,11 @@ And put the line in your package.json file depending:
 `import Keyri from 'react-native-keyri-sdk';`
 
 `const App: React.FC = () => {`  
-`return (`  
-`<SafeAreaView>`  
-`<Keyri apiKey="your_service_api_key" />`  
-`</SafeAreaView>`  
-`);`  
+&amp;`return (`  
+&amp;&amp;`<SafeAreaView>`  
+&amp;&amp;&amp;`<Keyri apiKey="your_service_api_key" />`  
+&amp;&amp;`</SafeAreaView>`  
+&amp;`);`  
 `};`
 
 ## START
