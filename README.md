@@ -32,7 +32,7 @@ And put the line in your package.json file depending:
         ....
         }
 
-<b style="color:red">Please insert the following line in android/app/build.gradle inside defaultConfig block either:</b>
+<span style="color:red">Please insert the following line in android/app/build.gradle inside defaultConfig block either:</span>
 `missingDimensionStrategy 'react-native-camera', 'general'`
 
 ## USAGE
