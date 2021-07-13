@@ -36,7 +36,24 @@ And put the line in your package.json file depending:
 `missingDimensionStrategy 'react-native-camera', 'general'`
 
     <?php
-        echo "Hello world!";
+        import React from 'react';
+        import {SafeAreaView, useColorScheme} from 'react-native';
+        import {Colors} from 'react-native/Libraries/NewAppScreen';
+        import Keyri from 'react-native-keyri-sdk';
+
+        const App: React.FC = () => {
+        const isDarkMode = useColorScheme() === 'dark';
+
+        const backgroundStyle = {
+          backgroundColor: isDarkMode ? Colors.darker : Colors.lighter,
+        };
+
+        return (
+          <SafeAreaView style={backgroundStyle}>
+            <Keyri apiKey="your service api key" />
+          </SafeAreaView>
+        );
+      };
     ?>
 
 ## USAGE
