@@ -42,12 +42,14 @@ And put the line in your package.json file depending:
 `import Keyri from 'react-native-keyri-sdk';`
 
 `const App: React.FC = () => {`  
-!`return (`  
- ! `<SafeAreaView>`  
- ! `<Keyri apiKey="your_service_api_key" />`  
- !`</SafeAreaView>`  
-!`);`  
+`return (`  
+` <SafeAreaView>`  
+` <Keyri apiKey="your_service_api_key" />`  
+` </SafeAreaView>`  
+`);`  
 `};`
+
+`<div></div>`
 
 ## START
 
