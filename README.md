@@ -53,7 +53,7 @@ And put the line in your package.json file depending:
 
 ## START
 
-**1**
+**1. Start Metro**
 
 `npm start`
 
@@ -61,7 +61,7 @@ or if you are using yarn
 
 `yarn start`
 
-**2**
+**2. Start on device**
 
 _in new terminal:_
 
