@@ -1,4 +1,4 @@
-# Keyri SDK
+<h1 style={"text-align: center"}>Keyri SDK</h1>
 
 ## INSTALLATION
 
