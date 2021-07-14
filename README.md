@@ -1,5 +1,3 @@
-# Keyri SDK
-
 <div  align="center">
   <h1>Keyri SDK</h1>
 </div>
