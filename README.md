@@ -1,4 +1,8 @@
-<h1 style="text-align:center; display: block;">Keyri SDK</h1>
+# Keyri SDK
+
+<div  align="center">
+  <h1>Keyri SDK</h1>
+</div>
 
 ## INSTALLATION
 
@@ -74,12 +78,12 @@ _in new terminal:_
 
 `npm ios`/`yarn ios` - for start apllication on **iOS**;
 
-## REQUIRED OPTIONS
+##REQUIRED OPTIONS##
 
 | **option** | **type** | **description**                                                                                                                      |
 | ---------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | apiKey     | string   | Api key of your service. Can be viewed on the Admin page for users who have registered or authenticated on [Keyri](https://keyri.co) |
 
-<div  align="center" target="_blank">
+<div  align="center">
   <a href="https://keyri.co" target="_blank">Keyri</a>
 </div>
