@@ -76,7 +76,7 @@ _in new terminal:_
 
 `npm ios`/`yarn ios` - for start apllication on **iOS**;
 
-##REQUIRED OPTIONS##
+## REQUIRED OPTIONS
 
 | **option** | **type** | **description**                                                                                                                      |
 | ---------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------ |
