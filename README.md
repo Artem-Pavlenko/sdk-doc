@@ -86,6 +86,18 @@ yarn start
 
 _in new terminal:_
 
+#### for start application on **android**
+
+```js
+npm run android
+```
+
+or
+
+```js
+yarn android
+```
+
 `npm run android`/`yarn android` - for start application on **android**;
 
 `npm run ios`/`yarn ios` - for start apllication on **iOS**;
@@ -94,7 +106,7 @@ _in new terminal:_
 
 | **option** | **type** | **description**                                                                                                                      |
 | ---------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| apiKey     | string   | Api key of your service. Can be viewed on the Admin page for users who have registered or authenticated on [Keyri](https://keyri.co) |
+| _apiKey_   | string   | Api key of your service. Can be viewed on the Admin page for users who have registered or authenticated on [Keyri](https://keyri.co) |
 
 <div  align="center">
   <a href="https://keyri.co" target="_blank">Keyri</a>
