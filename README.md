@@ -9,7 +9,7 @@ To install the stable version:
 
 `npm install react-native-keyri-sdk @react-native-async-storage/async-storage react-native-camera react-native-device-info react-native-linear-gradient react-native-qrcode-scanner react-native-sensitive-info`
 
-or if you are using yarn
+or if you are using `yarn`
 
 `yarn add react-native-keyri-sdk @react-native-async-storage/async-storage react-native-device-info react-native-camera react-native-linear-gradient react-native-qrcode-scanner react-native-sensitive-info`
 
