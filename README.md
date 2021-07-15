@@ -23,7 +23,7 @@ And put the line in your package.json file depending:
 "react-native-sodium": "https://github.com/glancemoney/react-native-sodium"`
 ```
 
-**Your dependencies will look approximately (package versions may differ from the example):**
+**Your dependencies will look approximately (_package versions may differ from the example_):**
 
 ```js
         "dependencies": {
@@ -80,7 +80,7 @@ const App: React.FC = () => {
 npm start
 ```
 
-or if you are using yarn
+or if you are using **_yarn_**
 
 ```js
 yarn start
@@ -96,7 +96,7 @@ yarn start
 npm run android
 ```
 
-or
+or if you are using **_yarn_**
 
 ```js
 yarn android
