@@ -1,10 +1,8 @@
 (setq markdown-xhtml-header-content
-"<style type='text/css'>
-.a {
-text-decoration: none;
+"<style>
+body .a {
 color: red;
 }
-a:hover { text-decoration: underline; }
 </style>")
 
 <div  align="center">
