@@ -58,6 +58,10 @@ And put the line in your package.json file depending:
           );
         };
 
+<div style="padding: 15px;">
+  <span style="color: #db6d28;">import</span>
+</div>
+
 ## START
 
 **1. Start Metro**
