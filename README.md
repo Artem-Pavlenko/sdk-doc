@@ -86,7 +86,7 @@ yarn start
 
 ##### `in new terminal`
 
-##### for start application on **android**
+#### for start application on **android**
 
 ```js
 npm run android
@@ -98,9 +98,17 @@ or
 yarn android
 ```
 
-`npm run android`/`yarn android` - for start application on **android**;
+#### for start apllication on **iOS**
 
-`npm run ios`/`yarn ios` - for start apllication on **iOS**;
+```js
+npm run ios
+```
+
+or
+
+```js
+yarn ios
+```
 
 ## REQUIRED OPTIONS
 
