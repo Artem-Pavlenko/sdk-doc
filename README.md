@@ -18,6 +18,7 @@ And put the line in your package.json file depending:
 
 **Your dependencies will look approximately (package versions may differ from the example):**
 
+```js
         "dependencies": {
         ....
         "@react-native-async-storage/async-storage": "^1.15.5",
@@ -33,30 +34,12 @@ And put the line in your package.json file depending:
         "react-native-sodium": "https://github.com/glancemoney/react-native-sodium"
         ....
         }
+```
 
 **_Please insert the following line in android/app/build.gradle inside defaultConfig block either:_**
 `missingDimensionStrategy 'react-native-camera', 'general'`
 
 ## USAGE
-
-        import React from 'react';
-        import {SafeAreaView, useColorScheme} from 'react-native';
-        import {Colors} from 'react-native/Libraries/NewAppScreen';
-        import Keyri from 'react-native-keyri-sdk';
-
-        const App: React.FC = () => {
-        const isDarkMode = useColorScheme() === 'dark';
-
-        const backgroundStyle = {
-          backgroundColor: isDarkMode ? Colors.darker : Colors.lighter,
-        };
-
-          return (
-            <SafeAreaView style={backgroundStyle}>
-              <Keyri apiKey="your service api key" />
-            </SafeAreaView>
-          );
-        };
 
 ```js
 import React from "react";
