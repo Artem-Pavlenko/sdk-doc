@@ -74,7 +74,7 @@ const App: React.FC = () => {
 
 ## START
 
-**1. Start Metro**
+**:one: Start Metro**
 
 ```js
 npm start
