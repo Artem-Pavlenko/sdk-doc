@@ -1,3 +1,12 @@
+(setq markdown-xhtml-header-content
+"<style type='text/css'>
+.a {
+text-decoration: none;
+color: red;
+}
+a:hover { text-decoration: underline; }
+</style>")
+
 <div  align="center">
   <h1>Keyri SDK</h1>
 </div>
@@ -59,7 +68,7 @@ And put the line in your package.json file depending:
         };
 
 <div style="padding: 15px;">
-  <span style="color: #db6d28;">import</span>
+  <span class="a">import</span>
 </div>
 
 ## START
