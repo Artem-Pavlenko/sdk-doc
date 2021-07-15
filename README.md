@@ -4,7 +4,7 @@
 
 ## INSTALLATION
 
-_Before using the Keyri SDK, you must install a number of dependencie._  
+:exclamation: _Before using the Keyri SDK, you must install a number of dependencie._  
 To install the stable version:
 
 ```js
