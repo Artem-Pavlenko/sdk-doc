@@ -78,7 +78,9 @@ npm start
 
 or if you are using yarn
 
-`yarn start`
+```js
+yarn start
+```
 
 **2. Start on device**
 
