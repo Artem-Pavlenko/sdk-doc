@@ -114,6 +114,8 @@ or
 yarn ios
 ```
 
+> Happy hacking!
+
 ## REQUIRED OPTIONS
 
 | **option** | **type** | **description**                                                                                                                      |
