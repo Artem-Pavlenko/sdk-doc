@@ -13,8 +13,11 @@ or if you are using yarn
 
 `yarn add react-native-keyri-sdk @react-native-async-storage/async-storage react-native-device-info react-native-camera react-native-linear-gradient react-native-qrcode-scanner react-native-sensitive-info`
 
-And put the line in your package.json file depending:  
-`"react-native-sodium": "https://github.com/glancemoney/react-native-sodium"`
+And put the line in your package.json file depending:
+
+```js
+"react-native-sodium": "https://github.com/glancemoney/react-native-sodium"`
+```
 
 **Your dependencies will look approximately (package versions may differ from the example):**
 
