@@ -39,7 +39,7 @@ And put the line in your package.json file depending:
         }
 ```
 
-**_Please insert the following line in_** `android/app/build.gradle ` **_inside_** `defaultConfig` **_block either:_**
+**_Please insert the following line in_** `android/app/build.gradle` **_inside_** `defaultConfig` **_block either:_**
 
 ```js
 missingDimensionStrategy 'react-native-camera', 'general'
