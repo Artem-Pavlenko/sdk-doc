@@ -88,7 +88,7 @@ yarn start
 
 **2. Start on device**
 
-##### `in new terminal`
+_in new terminal_
 
 #### for start application on **android**
 
