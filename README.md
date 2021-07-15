@@ -125,5 +125,5 @@ yarn ios
 | _apiKey_   | string   | Api key of your service. Can be viewed on the Admin page for users who have registered or authenticated on [Keyri](https://keyri.co) |
 
 <div  align="center">
-  <a href="https://keyri.co" target="_blank">Keyri</a>
+  <a href="https://keyri.co" target="_blank"><img src="./Keyri.svg"/></a>
 </div>
