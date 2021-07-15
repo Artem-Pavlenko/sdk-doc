@@ -2,8 +2,6 @@
   <h1>Keyri SDK</h1>
 </div>
 
-![alt text](./logo.png)
-
 ## INSTALLATION
 
 _Before using the Keyri SDK, you must install a number of dependencie._  
