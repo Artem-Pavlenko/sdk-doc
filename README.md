@@ -114,7 +114,7 @@ or
 yarn ios
 ```
 
-> Happy hacking!
+> Happy hacking! :smiley:
 
 ## REQUIRED OPTIONS
 
