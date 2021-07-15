@@ -59,15 +59,24 @@ And put the line in your package.json file depending:
         };
 
 ```js
-import React, { Component } from "react";
+import React from "react";
+import { SafeAreaView, useColorScheme } from "react-native";
+import { Colors } from "react-native/Libraries/NewAppScreen";
+import Keyri from "react-native-keyri-sdk";
 
-class Button extends Component {
-  render() {
-    // ...
-  }
-}
+const App: React.FC = () => {
+  const isDarkMode = useColorScheme() === "dark";
 
-export default Button; // Don’t forget to use export default!
+  const backgroundStyle = {
+    backgroundColor: isDarkMode ? Colors.darker : Colors.lighter,
+  };
+
+  return (
+    <SafeAreaView style={backgroundStyle}>
+      <Keyri apiKey="your service api key" />
+    </SafeAreaView>
+  );
+};
 ```
 
 ## START
