@@ -1,10 +1,3 @@
-(setq markdown-xhtml-header-content
-"<style>
-body .a {
-color: red;
-}
-</style>")
-
 <div  align="center">
   <h1>Keyri SDK</h1>
 </div>
@@ -65,9 +58,17 @@ And put the line in your package.json file depending:
           );
         };
 
-<div style="padding: 15px;">
-  <span class="a">import</span>
-</div>
+```js
+import React, { Component } from "react";
+
+class Button extends Component {
+  render() {
+    // ...
+  }
+}
+
+export default Button; // Don’t forget to use export default!
+```
 
 ## START
 
