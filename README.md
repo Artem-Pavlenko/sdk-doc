@@ -51,11 +51,11 @@ And put the line in your package.json file depending:
           backgroundColor: isDarkMode ? Colors.darker : Colors.lighter,
         };
 
-        return (
-          <SafeAreaView style={backgroundStyle}>
-            <Keyri apiKey="your service api key" />
-          </SafeAreaView>
-        );
+          return (
+            <SafeAreaView style={backgroundStyle}>
+              <Keyri apiKey="your service api key" />
+            </SafeAreaView>
+          );
         };
 
 ## START
@@ -72,9 +72,9 @@ or if you are using yarn
 
 _in new terminal:_
 
-`npm android`/`yarn android` - for start application on **android**;
+`npm run android`/`yarn android` - for start application on **android**;
 
-`npm ios`/`yarn ios` - for start apllication on **iOS**;
+`npm run ios`/`yarn ios` - for start apllication on **iOS**;
 
 ## REQUIRED OPTIONS
 
