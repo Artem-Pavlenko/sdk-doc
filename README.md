@@ -72,7 +72,9 @@ const App: React.FC = () => {
 
 **1. Start Metro**
 
-`npm start`
+```js
+npm start
+```
 
 or if you are using yarn
 
