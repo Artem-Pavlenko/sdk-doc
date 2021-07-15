@@ -86,9 +86,7 @@ yarn start
 
 _in new terminal_
 
-```js
-// in new terminal
-```
+** `in new terminal` **
 
 #### for start application on **android**
 
