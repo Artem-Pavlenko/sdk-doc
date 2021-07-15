@@ -74,7 +74,7 @@ const App: React.FC = () => {
 };
 ```
 
-## START
+## START :iphone:
 
 **:one: Start Metro**
 
