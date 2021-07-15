@@ -110,7 +110,7 @@ yarn android
 npm run ios
 ```
 
-![alt text](./or.png)
+or
 
 ```js
 yarn ios
